@@ -1,8 +1,9 @@
 #### Tenant Rent Receipts generator
 
 - [x] Accept Date and Tenant Details
-- [ ] Generate Rent Receipts
-- [ ] Print Only Generated Rent Receipts
+- [x] Generate Rent Receipts
+- [ ] Handle different formats (Monthly / Quarterly)
+- [x] Print Only Generated Rent Receipts
 
 #### Built With
 - Pico CSS
